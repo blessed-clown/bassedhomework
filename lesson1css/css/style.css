@@ -1,0 +1,11 @@
+.text--bold {
+    color: red; }
+.parent {
+color: black;
+border: 5px solid black;}
+.child {
+    color: blue;
+background-color: blueviolet;}
+#blog {
+    background-color: fuchsia;
+}
