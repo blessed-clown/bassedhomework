@@ -1,0 +1,13 @@
+.block{
+    height: 800px;
+    width: 800px;
+    box-shadow: inset;
+    border: 2px solid;
+}
+.block{
+position:fixed;
+top: auto;
+right: 50px;
+left: 50%;
+bottom: 100px;
+}

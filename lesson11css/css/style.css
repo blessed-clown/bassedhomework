@@ -1,0 +1,10 @@
+.block{
+    margin: 100px 100px;
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+.block{
+    transform:rotate(-30deg) translateX(10%);
+
+}

@@ -1,0 +1,23 @@
+.main{
+    padding: 50px 50px 50px;
+    height: 100%;
+
+}
+.block{
+    height: 100%;
+box-shadow: 0px 0px 10px ;
+}
+.block{
+    background: url(../YRQTo7lOrXk.jpg) center center / 30%  60% no-repeat,
+    linear-gradient(red, orange, yellow)
+}
+.psevdoblock{
+    height: 100%;
+box-shadow: 0px 0px 10px ;
+}
+.psevdoblock{
+    background-image: url(../qjJDUKUjlro.jpg),linear-gradient(blue,purple,pink);
+    background-repeat: no-repeat;
+    background-position:  center center;
+    background-size: auto;
+}
