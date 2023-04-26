@@ -1,0 +1,20 @@
+.block{
+    margin: 200px 700px;
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+
+}
+.one{
+    transition: 3s 2s;
+}
+.two{
+transition-duration: 3s;
+transition-delay: 2s;
+}
+.one:hover{
+    border-color: violet;
+}
+.two:hover{
+    border-color: purple;
+}

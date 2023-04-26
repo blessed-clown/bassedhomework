@@ -1,0 +1,27 @@
+.block{
+    padding: 75px;
+    height: 100%;
+}
+.block{
+    animation: wave-block 6s infinite;
+}
+@keyframes wave-block{
+0%{
+color: red;
+}
+20%{
+    color: rgb(196, 23, 23)
+}
+40%{
+    color: rgb(155, 16, 16))
+}
+60%{
+    color: rgb(68, 11, 11)
+}
+80%{
+    color: rgb(68, 11, 11)
+}
+100%{
+color: black;
+}
+}

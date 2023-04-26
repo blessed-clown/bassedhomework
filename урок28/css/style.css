@@ -1,0 +1,41 @@
+.flexbox{
+    position: absolute;
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    height: 900px;
+    width: 900px;
+    border: 3px solid black;
+}
+.one{
+height: 140px;
+width: 140px;
+background-color: red;
+}
+.two{
+height: 140px;
+width: 140px;
+background-color: black ;
+}
+.three{
+height: 140px;
+width: 140px;
+background-color: violet;
+}
+.four{
+height: 140px;
+width: 140px;
+background-color: purple;
+}
+.five{
+height: 140px;
+width: 140px;
+background-color: blueviolet;
+}
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+    flex-basis: initial;
+    align-items: center;
+}
